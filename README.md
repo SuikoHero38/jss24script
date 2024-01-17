@@ -32,6 +32,10 @@ or
 # Example command to run the code for filtering
 cd filter
 python main.py
+
+# Example command to run the code for plotting data into female/male distribution figure
+cd genderdist
+python main.py
 ```
 
 ## Authors and Acknowledgement
